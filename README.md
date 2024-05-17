@@ -198,17 +198,17 @@ confusion_matrix(test_image_gen.classes,predictions)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![WhatsApp Image 2024-05-17 at 19 27 45_469715f2](https://github.com/niraunjana/malaria-cell-recognition/assets/119395610/4a9817a3-70ed-4441-a56d-fbc435fe62fc)
+![image](https://github.com/niraunjana/malaria-cell-recognition/assets/119395610/9085587a-3b29-4ddb-97a6-1029967d0228)
 
 
 ### Classification Report
 
-![WhatsApp Image 2024-05-17 at 19 29 28_9374a0f9](https://github.com/niraunjana/malaria-cell-recognition/assets/119395610/d02014c9-1cfe-4cd5-9db9-a295d44f5802)
+![image](https://github.com/niraunjana/malaria-cell-recognition/assets/119395610/fcc85f5f-f4cd-4a2d-9aa6-7077a816bbc7)
 
 
 ### New Sample Data Prediction
 
-![WhatsApp Image 2024-05-17 at 19 31 53_e3d43d6d](https://github.com/niraunjana/malaria-cell-recognition/assets/119395610/e03f6ec6-91f0-4531-98ff-c81b2252436a)
+![image](https://github.com/niraunjana/malaria-cell-recognition/assets/119395610/00525bb0-9a8c-42cb-a2a4-4abc4a70d576)
 
 
 ## RESULT
